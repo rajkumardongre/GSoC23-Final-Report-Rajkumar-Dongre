@@ -8,10 +8,13 @@
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/GSoC-logo-horizontal.svg" width="600px" />
 </p>
-<p align="center"  style="font-size:2.5rem">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" style="width:40px;padding-right:1rem"/>
-    <span style="padding-bottom:1rem">Fortran-lang</span>
-</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <p style="font-size: 2.5rem; display: flex; align-items: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" style="width: 40px; padding-right: 0.5rem;" />
+        <span style="font-size: 2.5rem;">Fortran-lang</span>
+    </p>
+</div>
+
 <div style="text-align: center;margin:0px;padding:0px;width:100%">
     <h1 >GSoC 2023 : Final Report</h1> 
 </div>
