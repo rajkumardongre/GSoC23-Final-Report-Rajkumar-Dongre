@@ -13,7 +13,7 @@
 
 - **Organization:** Fortran-Lang
 - **Project:** [High-level HTTP client library](https://github.com/fortran-lang/http-client)
-- **Mentors:** Ondrej Certik, Gagandeep Singh, Rohit Goswami
+- **Mentors:** Milan Curcic, Arteev Raina, Philipp Engel
 - **Contributor:** Rajkumar Dongre
 
 This report summarizes the work done as part of my `GSoC 2023` project titled `High-level HTTP client library` at [**`fortran-lang/http-client`**](https://github.com/fortran-lang/http-client).
