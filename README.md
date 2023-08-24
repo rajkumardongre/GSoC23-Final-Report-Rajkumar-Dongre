@@ -1,11 +1,17 @@
-<div style="margin:0px;pading:0px;display:flex;flex-direction:column;align-items:center;justify-content:center;padding-top:1rem;">
-    <img src="https://camo.githubusercontent.com/976f3fc0f6caea7a0818d893dd354096e2119daa4d2d761f54cf0eb428617962/68747470733a2f2f646576656c6f706572732e676f6f676c652e636f6d2f6f70656e2d736f757263652f67736f632f7265736f75726365732f646f776e6c6f6164732f47536f432d6c6f676f2d686f72697a6f6e74616c2e737667" width="600px" />
+<!-- <div style="margin:0px;pading:0px;display:flex;flex-direction:column;align-items:center;justify-content:center;padding-top:1rem;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/GSoC-logo-horizontal.svg" width="600px" />
     <div style="margin:0px;display:flex;align-items:center;justify-content:center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" style="width:40px;padding-right:1rem"/>
         <h1 style="padding-top:1.7rem;font-size:2.5rem">Fortran-lang</h1>
     </div>
-</div>
-
+</div> -->
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/GSoC-logo-horizontal.svg" width="600px" />
+</p>
+<p align="center"  style="font-size:2.5rem">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" style="width:40px;padding-right:1rem"/>
+    <span style="padding-bottom:1rem">Fortran-lang</span>
+</p>
 <div style="text-align: center;margin:0px;padding:0px;width:100%">
     <h1 >GSoC 2023 : Final Report</h1> 
 </div>
